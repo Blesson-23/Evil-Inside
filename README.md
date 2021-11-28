@@ -1,54 +1,19 @@
-<p align="center">
-  <img src="PANDITHAN/Evil-Inside.jpeg" alt="Evil-Inside Logo">
-</p>
+<a href="https://TELEGRAM.DOG/MR_BANDU"><button>TELEGRAM CHANNEL</button></a>
+<br>
+<a href="https://TELEGRAM.DOG/OMEGA_DXBOT"><button>MY BOT</button></a>
+<BR>
+<a href="https://TELEGRAM.DOG/CYBER_DEMON"><button>CONTACT ME</button></a>
+  <br>
+<a href="https://github.com/jithin123455"><button>FOLLOW ME ON GITHUB</button></a>
+
 <h1 align="center">
-  <b>Evil-Inside</b>
+  <b>cyber demon</b>
 </h1>
 
-DEMO BOT - [Evil-Inside](https://telegram.dog/Evil_Inside_robot)
- 
-
-Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both amazing modules
-
-<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝕄𝔼 𝕆ℕ<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
-<p align="center">
-<a href="https://telegram.dog/PANDITHAN_SIR"><img alt="Telegram" src="https://img.shields.io/badge/𝙿𝚁𝙾𝙵𝙸𝙻𝙴-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://telegram.dog/M_STER_TECH"><img alt="Telegram" src="https://img.shields.io/badge/𝙲𝙷𝙰𝙽𝙽𝙴𝙻-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
-
-
-
-# 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
-* Admin
-* AFK
-* Anti Flood
-* Backup
-* Ban
-* Bios & About
-* Break The Chain
-* Biuetext Cleaning
-* Cas
-* Chat Bot With Kuki api key. 
-* Command Disabling
-* Connection
-* Covid 19 Tracker
-* Covid 19 Virus
-* Currency Converter
-* Dev Promoter
-* Dictionary
-* Disasters
-* Dog Bin
-* Federation
-* Filters
-* Fun
-* Github
-* Global Ban
-* Global Mute
-* GPS
-* Grammer
-* Greetings
-* Image Search
-* Locks
+<form>
+    <label> username: </label>
+     <input type="text" name="username" id="username">
+</form>
 
 # 𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 
 # [CLICK HERE](https://youtu.be/Bz8AUvN5bSo)
